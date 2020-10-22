@@ -21,4 +21,4 @@ $ sudo dynamic_tutorials server.py
 $ rosrun rqt_reconfigure rqt_reconfigure
 ```
 
-![image](https://github.com/qaz9517532846/dynamic_tutorials/image/dynamic.png)
+![image](https://github.com/qaz9517532846/dynamic_tutorials/blob/main/image/dynamic.png)
